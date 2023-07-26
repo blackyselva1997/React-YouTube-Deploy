@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-YouTube-Deploy/static/css/main.e2ec6f14.css",
+    "main.js": "/React-YouTube-Deploy/static/js/main.1b03a5d5.js",
+    "static/media/yt_logo_rgb_light.png": "/React-YouTube-Deploy/static/media/yt_logo_rgb_light.a676ea31f6d4cf08b9d2.png",
+    "index.html": "/React-YouTube-Deploy/index.html",
+    "main.e2ec6f14.css.map": "/React-YouTube-Deploy/static/css/main.e2ec6f14.css.map",
+    "main.1b03a5d5.js.map": "/React-YouTube-Deploy/static/js/main.1b03a5d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2ec6f14.css",
+    "static/js/main.1b03a5d5.js"
+  ]
+}
